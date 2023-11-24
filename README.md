@@ -1,0 +1,1 @@
+This pipeline fetches code from GitHub, tests the code, builds a docker image, uploads the image to Amazon ECR, and then runs a container in Amazon ECS.
